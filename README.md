@@ -43,3 +43,11 @@ This project implements a Quantum Convolutional Neural Network (QCNN) to classif
 ## Installation
 ```bash
 pip install tensorflow==2.15.0 tensorflow-quantum==0.7.3 cirq==1.3.0 numpy matplotlib seaborn
+
+## Usage
+- Run the Jupyter notebook QCNN-mnist.ipynb
+- The notebook will:
+- Load and preprocess the MNIST data
+- Build the quantum model
+- Train the QCNN
+- Evaluate performance
